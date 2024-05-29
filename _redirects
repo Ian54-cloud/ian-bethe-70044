@@ -1,0 +1,5 @@
+# Redirect from old URL to new URL
+/old-url /new-url 301
+
+# Redirect all 404 errors to the custom 404 page
+/* /404.html 404
